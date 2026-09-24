@@ -1,5 +1,5 @@
 package: cloud.lazycat.app.netronome
-version: 0.14.0
+version: 0.14.1
 name: Netronome
 description: "Netronome is a modern network speed testing and monitoring tool built with Go and React"
 license: MIT
