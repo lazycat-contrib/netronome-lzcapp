@@ -2,7 +2,7 @@ package: cloud.lazycat.app.netronome
 version: 0.16.0
 name: Netronome
 description: "Netronome is a modern network speed testing and monitoring tool built with Go and React"
-license: MIT
+license: GPL-2.0
 homepage: https://github.com/autobrr/netronome
 author: autobrr
 min_os_version: 1.5.0
